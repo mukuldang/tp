@@ -23,6 +23,24 @@
            "lastName": "Lokare",
            "job": "Professor",
            "roll": 37
+       },
+       {
+           "firstName": "Saurabh",
+           "lastName": "Birari",
+           "job": "bbt",
+           "roll": 61
+       },
+       {
+           "firstName": "Prasad",
+           "lastName": "B",
+           "job": "Photographer",
+           "roll": 4
+       },
+       {
+           "firstName": "Mukul",
+           "lastName": "D",
+           "job": "Sup",
+           "roll": 49
        }
    ]
 }
